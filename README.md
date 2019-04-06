@@ -4,7 +4,7 @@ A mod for Kerbal Space Program. Toggle control surface deploy direction using an
 
 ## Installation
 
-Extract to <KSP install>/GameData/
+Extract the contents of GameData to <KSP install>/GameData/
 
 ## Usage
 
