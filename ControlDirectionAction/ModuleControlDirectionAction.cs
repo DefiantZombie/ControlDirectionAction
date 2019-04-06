@@ -9,7 +9,7 @@
         {
             base.OnStart(state);
 
-            _surfaceModule = part.Modules.GetModule<ModuleControlSurface>();
+            _surfaceModule = part.FindModuleImplementing<ModuleControlSurface>();
             if (_surfaceModule == null)
             {
                 part.RemoveModule(this);
