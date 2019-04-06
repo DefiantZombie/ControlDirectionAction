@@ -1,1 +1,1 @@
-Initial release
+Fixed #1
